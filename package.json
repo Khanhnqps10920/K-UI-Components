@@ -1,7 +1,7 @@
 {
-  "name": "first-ui-component",
-  "version": "0.0.1",
-  "description": "",
+  "name": "k-ui-component",
+  "version": "0.0.3",
+  "description": "React ui components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "author": "sasaki-katsuharu",
+  "author": "Khanh-Nguyen",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.16.5",
