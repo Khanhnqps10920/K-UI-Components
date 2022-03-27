@@ -1,9 +1,14 @@
 {
   "name": "k-ui-component",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React ui components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
+  "keywords": [
+    "react",
+    "react-ui-component",
+    "k-study"
+  ],
   "scripts": {
     "test": "jest",
     "build": "rollup -c",
@@ -12,6 +17,10 @@
   },
   "author": "Khanh-Nguyen",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Khanhnqps10920/first-ui-component/"
+  },
   "devDependencies": {
     "@babel/core": "^7.16.5",
     "@rollup/plugin-commonjs": "^21.0.1",
