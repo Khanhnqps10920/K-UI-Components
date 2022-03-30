@@ -25,6 +25,7 @@ Success.args = {
   success: true,
   disabled: false,
   label: 'Success',
+  placeholder: 'success',
 };
 
 export const Error = Template.bind({});
@@ -32,10 +33,13 @@ Error.args = {
   error: true,
   disabled: false,
   message: 'Error',
+  placeholder: 'Error',
+  value: 'error ne',
 };
 
 export const Disabled = Template.bind({});
 Disabled.args = {
   disabled: true,
   label: 'Disabled',
+  placeholder: 'Disabled',
 };
