@@ -1,5 +1,4 @@
-# first-ui-component
+# k-ui-component
 
-This is Build UI Component for the first time by scratch
+This is Build UI Component by scratch using react typescript storybook
 
-TODO
